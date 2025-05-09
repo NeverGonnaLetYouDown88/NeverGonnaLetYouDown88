@@ -8,7 +8,7 @@
   2. GitHub
 - <h2>網頁爬蟲資料來源</h2>
   資料來源 : <a href="https://www.cakenobel.com.tw/" rel="nofollow">中華電信股票資訊</a><br>
-  <img src="https://dotblogsfile.blob.core.windows.net/user/yiru/1c4950c1-c1e0-47b5-9b2a-ad78d7e06fa8/1606394496.png" id="img" style="width: 496px; height: 372px;">
+  <img src="https://iwealth.bwnet.com.tw/image/pool/2018/01/3db8b4d6c6d1403cb4804bcc8fee76c6_620.png" id="img" style="width: 496px; height: 372px;">
 - <h2>作者與聯絡方式</h2>
   作者 : 靜宜大學 / 資科系 / 林柏臻<br>
   Email : <a href="mailto:s1113697@o365st.pu.edu.tw">s1113697@o365st.pu.edu.tw</a>
