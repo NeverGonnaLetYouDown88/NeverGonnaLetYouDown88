@@ -1,6 +1,6 @@
 - <h2>自我介紹 - 網頁爬蟲</h2>作者自我介紹和爬蟲成果的展示網頁
 - <h2>功能說明</h2>
-  1.<a href="https://github.com/NeverGonnaLetYouDown88/homework" rel="nofollow">首頁</a><br>
+  1.<a href="https://nevergonnaletyoudown88.github.io/kkkkk/" rel="nofollow">首頁</a><br>
   2.<a href="https://github.com/NeverGonnaLetYouDown88/sleep">個人介紹</a><br>
   3.<a href="https://nevergonnaletyoudown88.github.io/self/">爬蟲成果展示頁</a>
 - <h2>使用工具與軟體</h2>
