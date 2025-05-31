@@ -7,8 +7,8 @@
   2. GitHub
 - <h2>網頁爬蟲資料來源</h2>
   資料來源 : <a href="https://goldenaudiobook.net/">Goldenaudiobooks</a><br>
-  有聲書網頁
-  結果:彙整到csv檔中
+  有聲書網頁<br>
+  結果:彙整到csv檔中<br>
   <img src="https://lh3.googleusercontent.com/MPkNJKRo_yKomEGHUj_D3sRAGGnxHD0eDYNS4PfjpOQWTycvHmUhYdtDgzH4CyftuwUPk-EJUNN7MB-x3IqOmnTA=s1280-w1280-h800" id="img" style="width: 496px; height: 372px;">
 - <h2>作者與聯絡方式</h2>
   作者 : 靜宜大學 / 資科系 / 林柏臻<br>
