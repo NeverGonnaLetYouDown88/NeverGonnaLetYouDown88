@@ -1,14 +1,16 @@
 - <h2>自我介紹 - 網頁爬蟲</h2>作者自我介紹和爬蟲成果的展示網頁
 - <h2>功能說明</h2>
   1.<a href="https://nevergonnaletyoudown88.github.io/kkkkk/" rel="nofollow">首頁</a><br>
-  2.<a href="https://github.com/NeverGonnaLetYouDown88/sleep">個人介紹</a><br>
-  3.<a href="https://nevergonnaletyoudown88.github.io/self/">爬蟲成果展示頁</a>
+  2.<a href="https://nevergonnaletyoudown88.github.io/kkkkk">個人介紹</a><br>
+  3.<a href="https://nevergonnaletyoudown88.github.io/kkkkk">爬蟲成果展示頁</a>
 - <h2>使用工具與軟體</h2>
   1. Spyder<br>
   2. GitHub
 - <h2>網頁爬蟲資料來源</h2>
-  資料來源 : <a href="https://www.cakenobel.com.tw/" rel="nofollow">中華電信股票資訊</a><br>
-  <img src="https://iwealth.bwnet.com.tw/image/pool/2018/01/3db8b4d6c6d1403cb4804bcc8fee76c6_620.png" id="img" style="width: 496px; height: 372px;">
+  資料來源 : <a href="https://goldenaudiobook.net/">Goldenaudiobooks</a><br>
+  有聲書網頁
+  結果:彙整到csv檔中
+  <img src="https://lh3.googleusercontent.com/MPkNJKRo_yKomEGHUj_D3sRAGGnxHD0eDYNS4PfjpOQWTycvHmUhYdtDgzH4CyftuwUPk-EJUNN7MB-x3IqOmnTA=s1280-w1280-h800" id="img" style="width: 496px; height: 372px;">
 - <h2>作者與聯絡方式</h2>
   作者 : 靜宜大學 / 資科系 / 林柏臻<br>
   Email : <a href="mailto:s1113697@o365st.pu.edu.tw">s1113697@o365st.pu.edu.tw</a>
